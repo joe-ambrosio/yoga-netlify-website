@@ -5,7 +5,7 @@ title: About me
 
 # A propos 
 
-![alt text](://cours-bali.jpg "Cours à Bali")
+![alt text](/cours-bali.jpg "Cours à Bali")
 
 Après quelques années passées à Paris dans la création de voyages sur-mesure, il était temps pour moi de me préparer à la réalisation d'un grand voyage intérieur : celui du yoga. Car oui, le yoga est bien plus qu’une pratique physique ! Il développe une qualité de mouvement et d’état d’esprit, et permet de s’explorer, avec à chaque fois un peu plus d'ouverture et d’harmonie.  
 
