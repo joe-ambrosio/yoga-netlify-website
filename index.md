@@ -25,7 +25,7 @@ Paiements acceptés : espèces
 
 **Si vous désirez vous inscrire, veuillez m'envoyer un SMS au 06 42 62 00 72, ou un mail à josephine@ambros.io**
 
-_En cas de doute, vous pouvez aussi me contacter pour me poser des questions sur la pratique du yoga, je serais ravie de pouvoir vous aider ! :) _
+*En cas de doute, vous pouvez aussi me contacter pour me poser des questions sur la pratique du yoga, je serais ravie de pouvoir vous aider !* :)
 
 &nbsp;
 
@@ -33,7 +33,7 @@ _En cas de doute, vous pouvez aussi me contacter pour me poser des questions sur
 
 &nbsp;
 
-*Conseils pour la pratique du yoga vinyasa*{: style="text-decoration: underline"} :
+*Conseils pour la pratique du yoga vinyasa*{: style="text-decoration: underline;font-style: normal;"} :
 
 Le yoga vinyasa est un yoga rythmique et dynamique, où de nombreux enchaînements de postures sont réalisés sur le rythme de la respiration. Il fait travailler de manière équilibrée la force et la souplesse, développe la capacité respiratoire et renforce la colonne vertébrale. Ainsi, je vous conseille de ne pas manger au minimum 2h avant le début de la pratique.
 Privilégiez une tenue de sport confortable. Des vestiaires sont à votre disposition pour vous changer sur place. 
