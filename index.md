@@ -42,5 +42,6 @@ Le yoga se pratique pieds nus. Otez également les bijoux volumineux qui pourrai
 Tout le matériel nécessaire est disponible sur place. Si vous souhaitez cependant apporter votre propre tapis ou une serviette, vous êtes totalement libres de le faire !
 
 
+A très vite :) 
 
 
