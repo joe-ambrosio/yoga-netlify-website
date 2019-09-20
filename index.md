@@ -18,19 +18,19 @@ Planning :
 
 <span class="note">Note : Tous les prochains cours du jeudi seront dédiés au yoga Vinyasa. En effet, il est bon de pratiquer régulièrement le même type de yoga, ainsi vous pouvez observer votre évolution ! Si je parviens à ouvrir un 2ème créneau, je le dédierai au Hatha yoga.</span> 
 
-Prix du cours à l'unité : 13€ - 
-Paiements acceptés : espèces
-
+&nbsp;
+  
+Prix du cours à l'unité : 13€ <br?> Paiements acceptés : espèces
 
 **Si vous désirez vous inscrire, veuillez m'envoyer un SMS au 06 42 62 00 72, ou un mail à josephine@ambros.io**
 
 *En cas de doute, vous pouvez aussi me contacter pour me poser des questions sur la pratique du yoga, je serais ravie de pouvoir vous aider ! :) *
 
-
+&nbsp;
 
 **Adresse de CHAPS 2** : 100, rue de la Folie Méricourt 75011 Paris
 
-
+&nbsp;
 
 [Conseils pour la pratique du yoga vinyasa] :
 
@@ -40,6 +40,7 @@ Le yoga se pratique pieds nus. Otez également les bijoux qui pourraient vous g�
 
 Tout le matériel nécessaire est disponible sur place. Si vous souhaitez cependant apporter votre propre tapis ou une serviette, vous êtes totalement libres de le faire !
 
+&nbsp;
 
 A très vite :) 
 
