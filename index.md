@@ -3,6 +3,6 @@ layout: default
 title: Yoga avec Joe
 ---
 
-# Hello
+# Cours de yoga avec Joe
 
 you
