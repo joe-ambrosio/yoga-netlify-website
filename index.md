@@ -37,7 +37,7 @@ Paiements acceptés : espèces
 
 Le yoga vinyasa est un yoga rythmique et dynamique, où de nombreux enchaînements de postures sont réalisés sur le rythme de la respiration. Il fait travailler de manière équilibrée la force et la souplesse, développe la capacité respiratoire et renforce la colonne vertébrale. Ainsi, je vous conseille de ne pas manger au minimum 2h avant le début de la pratique.
 Privilégiez une tenue de sport confortable. Des vestiaires sont à votre disposition pour vous changer sur place. 
-Le yoga se pratique pieds nus. Otez également les bijoux volumineux qui pourraient vous gêner pendant la réalisation des postures. 
+Le yoga se pratique pieds nus. Otez également les bijoux qui pourraient vous gêner pendant la réalisation des postures. 
 
 Tout le matériel nécessaire est disponible sur place. Si vous souhaitez cependant apporter votre propre tapis ou une serviette, vous êtes totalement libres de le faire !
 
