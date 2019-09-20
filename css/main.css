@@ -14,6 +14,9 @@ margin: 20px auto;
 
 .note {
     font-size: 0.95em;
+    text-align: center;
+
+margin-top: 10px;
 }
 
 h1, h2, h3, h4 { text-align: center; }
