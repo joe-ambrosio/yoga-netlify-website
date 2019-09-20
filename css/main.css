@@ -1,7 +1,9 @@
 body { margin: 60px auto; width: 70%; font-family: 'Helvetica', 'Arial', 'Sans-Serif';}
 
-a { text-decoration: none; color: #999; }
-a:hover { text-decoration: underline; }
+nav a { text-decoration: none; color: #999; }
+nav a:hover { text-decoration: underline; }
+
+a { color: #333; }
 
 p, ul { font-size: 1.1em; line-height: 1.4em; color: #333 }
 p { text-align: center; }
