@@ -13,7 +13,7 @@ Planning :
 |:--------|:-------:|--------:|--------:|--------:|
 | Jeudi 26 septembre   | 20h15 (durée 1h30)  | CHAPS 2   | Vinyasa flow   | 9   |
 | Jeudi 3 octobre   | 20h15 (durée 1h30)    | CHAPS 2   | Vinyasa flow   | 9  |
-| Jeudi 10 octobre   | 20h15 (durée 1h30)    | CHAPS 2   | Hatha   | 9   |
+| Jeudi 10 octobre   | 20h15 (durée 1h30)    | CHAPS 2   | Vinyasa flow   | 9   |
 | Jeudi 17 octobre   | 20h15 (durée 1h30)    | CHAPS 2   | Vinyasa flow   | 9   |
 
 
