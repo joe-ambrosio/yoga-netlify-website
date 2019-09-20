@@ -5,7 +5,7 @@ title: Yoga avec Joe
 
 # Cours de yoga avec Joe
 
-![star](/star.png "")
+![star](/star.png "star")
   
 **Planning**
 
