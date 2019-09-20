@@ -16,7 +16,7 @@ title: Yoga avec Joe
 | Jeudi 10 octobre   | 20h15 (durée 1h30)    | CHAPS 2   | Vinyasa  | 9   |
 | Jeudi 17 octobre   | 20h15 (durée 1h30)    | CHAPS 2   | Vinyasa   | 9   |
 
-<span class="note">Note : Tous les prochains cours du jeudi seront dédiés au Vinyasa yoga. En effet, il est bon de pratiquer régulièrement le même type de yoga, ainsi vous pouvez observer votre évolution ! Si je parviens à ouvrir un 2ème créneau, je le dédierai au Hatha yoga.</span> 
+<div class="note">Note : Tous les prochains cours du jeudi seront dédiés au Vinyasa yoga. En effet, il est bon de pratiquer régulièrement le même type de yoga, ainsi vous pouvez observer votre évolution ! Si je parviens à ouvrir un 2ème créneau, je le dédierai au Hatha yoga.</div> 
 
 &nbsp;
   
