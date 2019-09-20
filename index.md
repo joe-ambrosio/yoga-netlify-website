@@ -32,7 +32,7 @@ Paiements acceptés : espèces
 
 **Adresse** 
 
-CHAPS 2 : 100, rue de la Folie Méricourt 75011 Paris
+CHAPS 2 : [100, rue de la Folie Méricourt 75011 Paris](https://goo.gl/maps/2tV2kPyzeJeJ4cGt9)
 
 &nbsp;
 
