@@ -18,6 +18,13 @@ Planning :
 
 
 
-Les cours à l'unité 
+Prix du cours à l'unité : 13€
+
+Paiements acceptés : espèces
+
 Adresse de CHAPS 2 : 100, rue de la Folie Méricourt 75011 Paris
+
+
+
+
 
