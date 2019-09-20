@@ -1,2 +1,4 @@
 name: Yoga avec Joe
 markdown: kramdown
+
+theme: jekyll-theme-minimal
