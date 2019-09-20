@@ -25,6 +25,12 @@ img[alt="me"] {
   border-radius: 50%;
 }
 
+img[alt="star"] {
+    width: 50%;
+    margin: 0 auto;
+    display: block;
+}
+
 table {
   border-collapse: collapse;
   width: 100%;
