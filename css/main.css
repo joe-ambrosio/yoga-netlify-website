@@ -1,4 +1,4 @@
-body { margin: 60px auto; width: 70%;}
+body { margin: 60px auto; width: 70%; font-family: 'Helvetica', 'Arial', 'Sans-Serif';}
 
 a { text-decoration: none; color: #999; }
 a:hover { text-decoration: underline; }
@@ -10,7 +10,7 @@ p { text-align: center; }
     font-size: 0.95em;
 }
 
-h1, h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; text-align: center; }
+h1, h2, h3, h4 { text-align: center; }
 h1 { font-size: 3em;  }
 h2 { font-size: 2.7em; }
 h3 { font-size: 2.3em; }
