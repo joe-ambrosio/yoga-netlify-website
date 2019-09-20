@@ -31,3 +31,14 @@ table, th, td {
   font-size: 1.05em;
 }
 
+body {
+  background: url(/night.svg);
+  background-size: cover;
+}
+
+.container {
+    background: #c1c0d2f2;
+    outline: 5px solid #fffffff2;
+    padding: 15px;
+}
+
