@@ -20,7 +20,10 @@ Planning :
 
 &nbsp;
   
-**Si vous désirez vous inscrire, veuillez m'envoyer un SMS au 06 42 62 00 72, ou un mail à josephine@ambros.io**
+**Inscription**
+
+SMS : 06 42 62 00 72  
+Mail : josephine@ambros.io
 
 En cas de doute, vous pouvez aussi me contacter pour me poser des questions sur la pratique du yoga, je serais ravie de pouvoir vous aider ! :)
 
