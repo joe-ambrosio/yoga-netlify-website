@@ -1,4 +1,4 @@
-body { margin: 60px auto; width: 70%; font-family: 'Lato', sans-serif;}
+body { margin: 60px auto 100px; width: 70%; font-family: 'Lato', sans-serif;}
 
 nav a { text-decoration: none; color: #999; }
 nav a:hover { text-decoration: underline; }
