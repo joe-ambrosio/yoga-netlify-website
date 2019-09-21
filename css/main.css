@@ -1,4 +1,4 @@
-body { margin: 60px auto; width: 70%; font-family: 'Helvetica', 'Arial', 'Sans-Serif';}
+body { margin: 60px auto; width: 70%; font-family: 'Lato', sans-serif;}
 
 nav a { text-decoration: none; color: #999; }
 nav a:hover { text-decoration: underline; }
@@ -19,7 +19,9 @@ margin: 20px auto;
 margin-top: 10px;
 }
 
-h1, h2, h3, h4 { text-align: center; }
+h1, h2, h3, h4 { text-align: center; 
+    font-family: 'Playfair Display', serif;
+}
 h1 { font-size: 3em;  }
 h2 { font-size: 2.7em; }
 h3 { font-size: 2.3em; }
