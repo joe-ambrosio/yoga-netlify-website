@@ -3,7 +3,9 @@ layout: default
 title: Yoga avec Joe
 ---
 
-# Cours de yoga avec Joe
+# Cours de yoga
+
+## avec Joe
 
 ![star](/star.png "star")
   
