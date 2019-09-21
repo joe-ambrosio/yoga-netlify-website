@@ -63,7 +63,7 @@ body {
 }
 
 @media (max-width: 640px) {
-    body { width: 85%; }
+    body { width: 85%;margin: 25px auto; }
       img[alt="star"] {
     width: 100%;
     }
