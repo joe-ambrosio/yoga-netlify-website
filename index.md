@@ -28,7 +28,8 @@ SMS : 06 42 62 00 72
 Mail : josephine@ambros.io
 
 Prix du cours à l'unité : 13€  
-Paiements acceptés : espèces
+Paiements acceptés : espèces  
+(CB très prochainement)
 
 &nbsp;
 
@@ -50,6 +51,8 @@ En cas de doute, vous pouvez aussi me contacter pour me poser des questions sur 
 
 &nbsp;
 
-A très vite :) 
+A très vite :)
+
+Joe Ambrosio
 
 
