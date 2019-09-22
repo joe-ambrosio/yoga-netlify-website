@@ -13,7 +13,7 @@ title: Yoga avec Joe
 
 | Date | Heure | Lieu | Type | Nb de places restantes |
 |:--------|:-------|:--------|:--------|:--------|
-| Jeudi 26 septembre   | 20h15 (durée 1h30)  | CHAPS 2   | Vinyasa  | 9   |
+| Jeudi 26 septembre   | 20h15 (durée 1h30)  | CHAPS 2   | Vinyasa  | 6   |
 | Jeudi 3 octobre   | 20h15 (durée 1h30)    | CHAPS 2   | Vinyasa  | 9  |
 | Jeudi 10 octobre   | 20h15 (durée 1h30)    | CHAPS 2   | Vinyasa  | 9   |
 | Jeudi 17 octobre   | 20h15 (durée 1h30)    | CHAPS 2   | Vinyasa   | 9   |
