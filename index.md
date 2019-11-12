@@ -13,8 +13,7 @@ title: Yoga avec Joe
 
 | Date | Heure | Lieu | Type | Nb de places restantes |
 |:--------|:-------|:--------|:--------|:--------|
-| Jeudi 7 novembre    | 20h15 (durée 1h30)    | CHAPS 2   | Hatha   | 7   |
-| Jeudi 21 novembre   | 20h15 (durée 1h30)    | CHAPS 2   | Vinyasa   | 9   |
+| Jeudi 21 novembre   | 20h15 (durée 1h30)    | CHAPS 2   | Hatha   | 6   |
 
 
 
