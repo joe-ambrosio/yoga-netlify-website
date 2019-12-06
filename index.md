@@ -13,15 +13,14 @@ title: Yoga avec Joe
 
 | Date | Heure | Lieu | Type | Nb de places restantes |
 |:--------|:-------|:--------|:--------|:--------|
-| Jeudi 21 novembre   | 20h15 (durée 1h30)    | CHAPS 2   | Hatha   | 6   |
+| Pas de cours prévu pour le moment |   |   |   |   |
 
 
 
 &nbsp;
   
 **Inscription**
-
-SMS : 06 42 62 00 72  
+  
 Mail : josephine@ambros.io
 
 Prix du cours à l'unité : 13€  
@@ -29,15 +28,12 @@ Paiements acceptés : CB et espèces
 
 &nbsp;
 
-**Adresse** 
-
-CHAPS 2 : [100, rue de la Folie Méricourt 75011 Paris](https://goo.gl/maps/2tV2kPyzeJeJ4cGt9)
 
 &nbsp;
 
-*Conseils pour la pratique du Vinyasa yoga*{: style="text-decoration: underline;font-style: normal;"} :
+*Conseils pour la pratique du yoga*{: style="text-decoration: underline;font-style: normal;"} :
 
-Le Vinyasa yoga est un yoga rythmique et dynamique, où de nombreux enchaînements de postures sont réalisés sur le rythme de la respiration. Il fait travailler de manière équilibrée la force et la souplesse, développe la capacité respiratoire et renforce la colonne vertébrale. Ainsi, je vous conseille de ne pas manger au minimum 2h avant le début de la pratique.
+Ne pas manger au minimum 2h avant le début de la pratique.
 Privilégiez une tenue de sport confortable. Des vestiaires sont à votre disposition pour vous changer sur place. 
 Le yoga se pratique pieds nus. Otez également les bijoux qui pourraient vous gêner pendant la réalisation des postures. 
 
